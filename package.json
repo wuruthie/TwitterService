@@ -1,0 +1,23 @@
+{
+  "name": "twitterservice",
+  "version": "1.0.0",
+  "description": "a service to play with the twitter api",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^17.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuruthie/TwitterService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuruthie/TwitterService/issues"
+  },
+  "homepage": "https://github.com/wuruthie/TwitterService#readme"
+}
